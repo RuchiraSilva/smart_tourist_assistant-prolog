@@ -123,4 +123,4 @@ This project is for academic use only.
 
 ## 📬 Feedback
 
-Feel free to submit issues or suggestions in the [Issues](https://github.com/RuchiraSilva/smart-tourist-assistant/issues) tab.
+Feel free to submit issues or suggestions in the [Issues](https://github.com/RuchiraSilva/smart_tourist_assistant-prolog/issues) tab.
